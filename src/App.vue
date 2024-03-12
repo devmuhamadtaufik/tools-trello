@@ -3,7 +3,7 @@
 
 <template>
 <div class="bg-red-300">
-  lorem
+  <button class="btn btn-primary">Hello World!</button>
 </div>
 </template>
 
